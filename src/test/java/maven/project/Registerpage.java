@@ -30,5 +30,6 @@ public class Registerpage {
 	@AfterTest()
 	public void close() {
 		driver.close();
+		driver.close();
 	}
 }
